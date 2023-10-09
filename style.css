@@ -104,6 +104,7 @@ h1 {
     width: 100%;
     text-transform: uppercase;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .button:hover{
